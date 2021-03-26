@@ -6,5 +6,5 @@ functions:
   social-profile-discovery:
     lang: dockerfile
     handler: ./social-profile-discovery
-    image: localhost:5000/social-profile-discovery:latest
+    image: social-profile-discovery:latest
 
